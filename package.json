@@ -1,0 +1,20 @@
+{
+  "name": "ac-vue-octicons",
+  "description": "github octicons as a vue-component",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-vue-octicons",
+  "main": "./dist/octicon.js",
+  "scripts": {
+    "build": "npx poi build index.js",
+    "watch": "npx poi watch index.js",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "octicons": "^7.1.0"
+  },
+  "devDependencies": {
+    "poi": "^9.6.13"
+  }
+}
