@@ -1,7 +1,7 @@
 {
   "name": "ac-vue-octicons",
   "description": "github octicons as a vue-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT",
   "repository": "oleics/node-ac-vue-octicons",
